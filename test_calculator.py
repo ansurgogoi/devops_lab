@@ -7,4 +7,3 @@ def test_add():
 
 def test_subtract():
     assert subtract(5, 1) == 4
-    
